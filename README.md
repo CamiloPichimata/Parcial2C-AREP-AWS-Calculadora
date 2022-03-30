@@ -81,3 +81,5 @@ http://ec2-3-80-229-234.compute-1.amazonaws.com:5000/acos?value=0.1
 ```
 
 ![](img/Prueba2.png)
+
+Puede ver el video de la ejecusión dando [click aquí](video/Video.mp4).
