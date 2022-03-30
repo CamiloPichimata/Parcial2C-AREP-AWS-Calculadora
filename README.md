@@ -13,7 +13,7 @@ En este caso las funciones implementadas fueron `Acos` y `Asin`.
 
 Para realizar el despliegue se crearon 3 instancias del servicio de EC2:
 
-![](img/instancias.png)
+![instancias](img/instancias.png)
 
 En este caso se podía acceder a las máquinas a través de las siguiente direcciones:
 
